@@ -1,0 +1,3 @@
+[submodule "ASH-CC-submit"]
+	path = ASH-CC-submit
+	url = https://github.com/josephzsombor/ASH-CC-submit
