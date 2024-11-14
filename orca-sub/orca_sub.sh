@@ -81,4 +81,3 @@ cp $tdir/*.nbo $SLURM_SUBMIT_DIR
 cp $tdir/FILE.47 $SLURM_SUBMIT_DIR
 cp $tdir/*_property.txt $SLURM_SUBMIT_DIR
 cp $tdir/*spin* $SLURM_SUBMIT_DIR
-cp $tdir/*.out $SLURM_SUBMIT_DIR #needed for compound jobs
